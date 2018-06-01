@@ -1,0 +1,24 @@
+body{
+     width: 500px;
+     background-color: DarkMagenta ;
+     border: 2px solid orchid;
+}
+
+p {
+     color: thistle;
+     
+}
+label{
+     color: thistle;
+}
+
+header{
+     font-size: 50px;
+     margin-bottom: 50px;
+     border-bottom: 2px solid orchid;
+     color: hotpink ;
+}
+
+img{
+    border-top: 2px solid orchid; 
+}
